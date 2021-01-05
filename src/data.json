@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pastel Block Vans",
+      "price": 39,
+      "description": "Pastel Blue Vans Old School",
+      "sizes": ["39", "40", "41", "42", "43"],
+      "colors": ["blue", "red", "white", "green"],
+      "stock": 5
+    },
+    {
+      "id": 2,
+      "name": "Pastel Block Vans",
+      "price": 39,
+      "description": "Pastel Blue Vans Old School",
+      "sizes": ["39", "40", "41", "42", "43"],
+      "colors": ["blue", "red", "white", "green"],
+      "stock": 0
+    },
+    {
+      "id": 3,
+      "name": "Pastel Block Vans",
+      "price": 39,
+      "description": "Pastel Blue Vans Old School",
+      "sizes": ["39", "40", "41", "42", "43"],
+      "colors": ["blue", "red", "white", "green"],
+      "stock": 4
+    },
+    {
+      "id": 4,
+      "name": "Pastel Block Vans",
+      "price": 39,
+      "description": "Pastel Blue Vans Old School",
+      "sizes": ["39", "40", "41", "42", "43"],
+      "colors": ["blue", "red", "white", "green"],
+      "stock": 4
+    },
+    {
+      "id": 5,
+      "name": "Pastel Block Vans",
+      "price": 39,
+      "description": "Pastel Blue Vans Old School",
+      "sizes": ["39", "40", "41", "42", "43"],
+      "colors": ["blue", "red", "white", "green"],
+      "stock": 0
+    },
+    {
+      "id": 6,
+      "name": "Pastel Block Vans",
+      "price": 39,
+      "description": "Pastel Blue Vans Old School",
+      "sizes": ["39", "40", "41", "42", "43"],
+      "colors": ["blue", "red", "white", "green"],
+      "stock": 9
+    },
+    {
+      "id": 7,
+      "name": "Pastel Block Vans",
+      "price": 39,
+      "description": "Pastel Blue Vans Old School",
+      "sizes": ["39", "40", "41", "42", "43"],
+      "colors": ["blue", "red", "white", "green"],
+      "stock": 3
+    }
+  ]
+}
